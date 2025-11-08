@@ -32,11 +32,11 @@ const Hero = () => {
 
         {/* Tagline */}
         <div className="max-w-3xl mx-auto mb-12">
-          <div className="bg-background/80 backdrop-blur-sm px-8 py-6 rounded-2xl shadow-retro">
-            <p className="text-3xl md:text-4xl font-righteous text-foreground mb-4" style={{ textShadow: '2px 2px 4px rgba(0,0,0,0.8)' }}>
+          <div className="bg-background/30 backdrop-blur-md px-8 py-6 rounded-2xl">
+            <p className="text-3xl md:text-4xl font-righteous text-foreground mb-4">
               Välkommen till Alex Bil
             </p>
-            <p className="text-xl md:text-2xl text-foreground font-medium" style={{ textShadow: '2px 2px 4px rgba(0,0,0,0.8)' }}>
+            <p className="text-xl md:text-2xl text-foreground font-medium">
               Bilar med stil och själ — precis som på goda gamla tiden
             </p>
           </div>
