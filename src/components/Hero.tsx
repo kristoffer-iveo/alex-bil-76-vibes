@@ -35,7 +35,7 @@ const Hero = () => {
           <p className="text-3xl md:text-4xl font-righteous text-foreground mb-4">
             Välkommen till Alex Bil
           </p>
-          <p className="text-xl md:text-2xl text-muted-foreground font-medium">
+          <p className="text-xl md:text-2xl text-foreground font-medium drop-shadow-md">
             Bilar med stil och själ — precis som på goda gamla tiden
           </p>
         </div>
