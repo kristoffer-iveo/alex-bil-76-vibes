@@ -32,14 +32,12 @@ const Hero = () => {
 
         {/* Tagline */}
         <div className="max-w-3xl mx-auto mb-12">
-          <div className="bg-background/30 backdrop-blur-md px-8 py-6 rounded-2xl">
-            <p className="text-3xl md:text-4xl font-righteous text-foreground mb-4">
-              Välkommen till Alex Bil
-            </p>
-            <p className="text-xl md:text-2xl text-foreground font-medium">
-              Bilar med stil och själ — precis som på goda gamla tiden
-            </p>
-          </div>
+          <p className="text-3xl md:text-4xl font-righteous text-retro-cream mb-4 drop-shadow-[0_2px_8px_rgba(0,0,0,0.9)]">
+            Välkommen till Alex Bil
+          </p>
+          <p className="text-xl md:text-2xl text-retro-cream font-medium drop-shadow-[0_2px_8px_rgba(0,0,0,0.9)]">
+            Bilar med stil och själ — precis som på goda gamla tiden
+          </p>
         </div>
 
         {/* CTA Button */}
