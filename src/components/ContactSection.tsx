@@ -32,10 +32,10 @@ const ContactSection = () => {
             </CardHeader>
             <CardContent className="text-center">
               <a 
-                href="tel:+46701234567" 
+                href="tel:+46701234568" 
                 className="text-xl font-bold text-retro-brown hover:text-primary transition-colors"
               >
-                070-123 45 67
+                070-123 45 68
               </a>
               <p className="text-sm text-chrome-dark mt-2">Ring för mer info!</p>
             </CardContent>
