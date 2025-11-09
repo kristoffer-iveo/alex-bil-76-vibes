@@ -9,7 +9,7 @@ const Footer = () => {
           <div className="w-12 h-1 bg-secondary rounded-full"></div>
           <div className="w-12 h-1 bg-primary rounded-full"></div>
         </div>
-        <p className="text-xs mt-4 opacity-60">© 2024 Alex Bil. Med glimten i ögat.</p>
+        <p className="text-xs mt-4 opacity-60">© {new Date().getFullYear()} Alex Bil. Med glimten i ögat.</p>
       </div>
     </footer>
   );
