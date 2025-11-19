@@ -25,7 +25,7 @@ const Hero = () => {
           </h1>
           <div className="inline-block bg-gradient-chrome px-8 py-2 rounded-full shadow-retro">
             <p className="text-lg md:text-xl font-bold text-retro-brown tracking-widest">
-              SEDAN 1976
+              SEDAN 1977
             </p>
           </div>
         </div>
