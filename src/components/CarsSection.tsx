@@ -24,6 +24,27 @@ const cars = [
     year: 1979,
     price: "62 000 kr",
     description: "Tidlös elegans i brunt. Tysk kvalitet som aldrig går ur tiden."
+  },
+  {
+    image: car1,
+    title: "Volvo P1800",
+    year: 1971,
+    price: "89 000 kr",
+    description: "Ikonisk sportcoupé med eleganta linjer. Sällsynt och eftertraktad av samlare."
+  },
+  {
+    image: car2,
+    title: "Ford Escort MK1",
+    year: 1974,
+    price: "52 000 kr",
+    description: "Rallylegendens ursprung. Kompakt, snabb och full av körglädje."
+  },
+  {
+    image: car3,
+    title: "BMW 2002",
+    year: 1973,
+    price: "74 000 kr",
+    description: "Den ultimata körmaskinen i miniformat. Sportig, smidig och tidlöst snygg."
   }
 ];
 
